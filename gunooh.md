@@ -1,5 +1,3 @@
-Enter file contents here#자기소개서<br/>
-####MarkDown으로 작성한 자기소개서(Github 저장소) [바로가기](https://github.com/gunooh/gunooh.github.io/blob/master/resume.html "resume")
 
 
 <br/>![GUNWOO PARK](http://ifh.cc/g/X2wc.jpg)
